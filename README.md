@@ -52,5 +52,8 @@ AB : 2BTC
 ## output of the minning_simulation.js
 ![{CB14434B-32C0-47D0-8891-3E2954462148}](https://github.com/user-attachments/assets/ff2ea4fa-b6ae-41d5-8ef7-d476f060ce4a)
 
+## output of  consensusmechanisms.js
+![image](https://github.com/user-attachments/assets/0f1dc500-e6bc-45d4-9603-fa7792a68571)
+
 
 
