@@ -44,6 +44,9 @@ AB : 2BTC
               In DPoS, stakeholders vote to elect a small number of delegates or validators who are responsible for validating transactions and creating new                      blocks. These representatives take turns to produce blocks on behalf of the network. The voting system keeps validators accountable, as malicious or                underperforming ones can be voted out. DPoS offers faster consensus and scalability compared to PoW and PoS
 
 
+
+
+## Output of blockchain_simulation.js
 ![image](https://github.com/user-attachments/assets/c563683c-80a8-418e-b606-2726979b8341)
 
 
